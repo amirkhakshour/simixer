@@ -1,8 +1,3 @@
-<p align="center">
-  <img height="100px" src="https://bunch.ai/wp-content/themes/bunch/images/bunch-logo-rgb.svg" alt="Bunch" />
-</p>
-
-# Bunch challenge
 
 # How to run as a python script:
 in the parent directory run the following command: 
